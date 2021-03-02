@@ -1,0 +1,23 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "express module",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atifghaffar83/profile.git"
+  },
+  "author": "Atif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atifghaffar83/profile/issues"
+  },
+  "homepage": "https://github.com/atifghaffar83/profile#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

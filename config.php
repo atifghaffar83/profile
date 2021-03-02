@@ -1,0 +1,4 @@
+<?php 
+   $gmailpass = 'Starth84!"'; 
+   
+?> 
