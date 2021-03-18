@@ -42,11 +42,11 @@ $( document ).ready(function() {
             $("form .alert").removeClass("alert-danger");
             
             $(".sentmsg").html(`Email sent ok`);
-/* 
+
             setTimeout (function(){
               $("form .alert").fadeOut(3000);
             }, 4000)
-             */
+            
             
             $("#submitbtn").html("CONTACT ME");
             $("#submitbtn").attr("disabled", false);

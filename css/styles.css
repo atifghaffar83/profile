@@ -136,7 +136,7 @@ nav li:hover a{
   justify-content: center;
   background-color: #eaf9f7;
   position: fixed;
-  z-index: 9;
+  z-index: 1010;
   
 }
 
