@@ -131,6 +131,7 @@ nav li:hover a{
   color: #fff;
 } */
 .navbarsection {
+  
   display: flex;
   width: 100%;
   justify-content: center;
@@ -565,6 +566,7 @@ nav {
 
 .navbarsection {
   display: none;
+  z-index: 9;
 }
 
 .navmob {
